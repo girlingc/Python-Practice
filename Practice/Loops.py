@@ -1,8 +1,3 @@
-# Refia Elif Emiroglu A01084126 Week 3
-# one example of a conditional,
-# a while loop, a for loop - out of the videos.
-# conditional examples functions
-
 """ Conditional to check the language"""
 language = "python"
 
